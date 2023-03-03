@@ -14,7 +14,7 @@ Data sets: https://www.kaggle.com/datasets/jpmiller/employee-attrition-for-healt
 - Laverty, Tom
 - Park, Juliana
 - Hartman, Jessica
-- Vargo, Jonathan
+- Vargo, Denton
 
 # Research Questions:
 - What's leading to the highest level of RN attrition? (Uzma)
