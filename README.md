@@ -5,17 +5,18 @@ Our group will be analyzing -What, Where and Why- is causing the attrition in th
 
 Data sets: https://www.kaggle.com/datasets/jpmiller/employee-attrition-for-healthcare, https://www.kaggle.com/datasets/geobrando/health-professional-shortage-areas
 
-Team members:
--Mumin, Fatima
--Bentley, Brooke
--Kolahdoozan, Sami
--Gowrishankar, Ramnath
--Azhar, Uzma
--Laverty, Tom
--Park, Juliana
--Hartman, Jessica
--Vargo, Jonathan
+# Team members:
+- Mumin, Fatima
+- Bentley, Brooke
+- Kolahdoozan, Sami
+- Gowrishankar, Ramnath
+- Azhar, Uzma
+- Laverty, Tom
+- Park, Juliana
+- Hartman, Jessica
+- Vargo, Jonathan
 
+# Research Questions:
 - What's leading to the highest level of RN attrition? (Uzma)
 - What is the attrition of RNs when compared against the broader healthcare attrition? (Ram/Jessica)
     - RN attrition compared to attrition in other sectors - Primary, Dental, Mental
