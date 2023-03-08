@@ -3,7 +3,7 @@
 # Impact of RN attrition in the United States:
 Our group will be analyzing -What, Where and Why- is causing the attrition in the United States by using the following data sets and overarching questions. We'll be demonstrating our learnings from Modules 1-5 using Pythons, Pandas, and Matplotlib and display our findings using a variety of visualization tools.
 
-Data sets: https://www.kaggle.com/datasets/jpmiller/employee-attrition-for-healthcare, https://www.kaggle.com/datasets/geobrando/health-professional-shortage-areas
+Data sets: https://www.kaggle.com/datasets/jpmiller/employee-attrition-for-healthcare, https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 # Team members:
 - Mumin, Fatima
