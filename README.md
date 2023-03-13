@@ -20,8 +20,11 @@ Data sets: https://www.kaggle.com/datasets/jpmiller/employee-attrition-for-healt
 - What's leading to the highest level of RN attrition? (Uzma)
 - What is the attrition of RNs when compared against the broader healthcare attrition? (Ram/Jessica)
     - RN attrition compared to attrition among other healthcare professionals.
-- Which region has the highest level of RN attrition and why? (Sami/Denton)
-    - Level of COVID rates in comparison to attrition by region - how much did the COVID cases per capita play a role in attrition?
+- Income and number of registered nurses comparisons? (Sami/Denton)
+    - The average annual income changes throughout years?
+    - Total number of registered nurses changes throughout years?
+    - The average annual income compared to the ratio of an occupation’s share of employment in a given area to that occupation’s share of employment in the U.S. as a whole.
+    - % of Covid death rate to positive cases compared to the ratio of an occupation’s share of registered nurses' employment in a given area to that occupation’s share of employment in the U.S. as a whole.
 - What is the level of RN attrition based on tenure? (Juliana)
 - Travel nursing vs average RN attrition (pay)? (Fatima)
     - How overtime plays into RN attrition - travel vs average?
