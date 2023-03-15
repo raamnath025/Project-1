@@ -1,5 +1,7 @@
 ## Project-1
 
+** Please see our final project presentation here: https://docs.google.com/presentation/d/1XlGu4xHrqKMOGfCENAn6gj0CLu6lalh-JdwLTfMUEF8/edit#slide=id.g2180eadb96b_0_11 **
+
 # Impact of RN attrition in the United States:
 Our group will be analyzing -What, Where and Why- is causing the attrition in the United States by using the following data sets and overarching questions. We'll be demonstrating our learnings from Modules 1-5 using Pythons, Pandas, and Matplotlib and display our findings using a variety of visualization tools.
 
