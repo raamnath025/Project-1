@@ -32,3 +32,11 @@ Data sets: https://www.kaggle.com/datasets/jpmiller/employee-attrition-for-healt
     - How overtime plays into RN attrition - travel vs average?
 - What is the difference in attrition between part-time and full-time RNs? (Tom/Brooke)
     - How does income play a role? 
+
+# Analysis:
+- Lower monthly income levels and working overtime were major contributors to RN attrition.  Over 40% of employees that left were making less than $3000 per month and also worked overtime, pointing to possible dissatisfaction with compensation and burnout. 
+- Lower tenure level (less than 2 years), lower salary increases, and lower job levels also contributed to RN attrition.
+- Although lower monthly rate is a major contribution to RN attrition, the annual income change is only 3-4% even during Covid-19 (years 2020-2021).
+- The average income for states with lower location quotient were higher. 
+- When comparing the Maternity, Neurology and Cardiology Specialties - a tenure of less than 2 years and RNs who worked overtime were 2 factors that correlated highly with RN attrition. 
+
